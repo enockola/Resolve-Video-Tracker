@@ -1,0 +1,1523 @@
+{
+  "root": "C:\\Users\\enoch\\Videos",
+  "total_bytes": 45757214771,
+  "total_human": "42.61 GB",
+  "by_ext": [
+    {
+      "ext": ".mov",
+      "bytes": 41328220024,
+      "human": "38.49 GB"
+    },
+    {
+      "ext": ".mp4",
+      "bytes": 4214517793,
+      "human": "3.93 GB"
+    },
+    {
+      "ext": ".dvcc",
+      "bytes": 166068224,
+      "human": "158.38 MB"
+    },
+    {
+      "ext": ".pfl",
+      "bytes": 48348968,
+      "human": "46.11 MB"
+    },
+    {
+      "ext": ".20251019111303",
+      "bytes": 14170,
+      "human": "13.84 KB"
+    },
+    {
+      "ext": ".20251019124559",
+      "bytes": 14090,
+      "human": "13.76 KB"
+    },
+    {
+      "ext": ".20251018163122",
+      "bytes": 10458,
+      "human": "10.21 KB"
+    },
+    {
+      "ext": ".20251019125600",
+      "bytes": 10082,
+      "human": "9.85 KB"
+    },
+    {
+      "ext": ".20251019130825",
+      "bytes": 10076,
+      "human": "9.84 KB"
+    },
+    {
+      "ext": ".ini",
+      "bytes": 694,
+      "human": "694.00 B"
+    },
+    {
+      "ext": ".txt",
+      "bytes": 152,
+      "human": "152.00 B"
+    },
+    {
+      "ext": ".wav",
+      "bytes": 40,
+      "human": "40.00 B"
+    }
+  ],
+  "largest_files": [
+    {
+      "path": "C:\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_20251018000106.mov",
+      "bytes": 41328220024,
+      "human": "38.49 GB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\Hunting Down Rapid Deku.mp4",
+      "bytes": 2121229522,
+      "human": "1.98 GB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\Fine, I'll Do It Myself.mp4",
+      "bytes": 1987979203,
+      "human": "1.85 GB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\Fine, I'll Do It Myself-Proper Short.mp4",
+      "bytes": 105309068,
+      "human": "100.43 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\b\\FLP_22dbf030-7420-4c90-848c-4f5392db7c4b_80004002.pfl",
+      "bytes": 3348284,
+      "human": "3.19 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\b\\FLP_22dbf030-7420-4c90-848c-4f5392db7c4b_80004001.pfl",
+      "bytes": 3348284,
+      "human": "3.19 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 202509152021300_1.mp4.pfl",
+      "bytes": 3281108,
+      "human": "3.13 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 202509152021300_0.mp4.pfl",
+      "bytes": 3281108,
+      "human": "3.13 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_1.mp4.pfl",
+      "bytes": 3228516,
+      "human": "3.08 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_0.mp4.pfl",
+      "bytes": 3228516,
+      "human": "3.08 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_1.mov.pfl",
+      "bytes": 3228516,
+      "human": "3.08 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_0.mov.pfl",
+      "bytes": 3228516,
+      "human": "3.08 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\5\\FLP_6d406c05-8532-495a-a5bb-a3f2f0d5b225_80004002.pfl",
+      "bytes": 3218740,
+      "human": "3.07 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\5\\FLP_6d406c05-8532-495a-a5bb-a3f2f0d5b225_80004001.pfl",
+      "bytes": 3218740,
+      "human": "3.07 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510180001060_1.mp4.pfl",
+      "bytes": 2802388,
+      "human": "2.67 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510180001060_0.mp4.pfl",
+      "bytes": 2802388,
+      "human": "2.67 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510111550350_1.mp4.pfl",
+      "bytes": 2291636,
+      "human": "2.19 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510111550350_0.mp4.pfl",
+      "bytes": 2291636,
+      "human": "2.19 MB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000180.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000179.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000178.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000177.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000176.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000175.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000174.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000173.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000172.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000171.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000170.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    },
+    {
+      "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000169.dvcc",
+      "bytes": 917504,
+      "human": "896.00 KB"
+    }
+  ],
+  "by_category_bytes": {
+    "proxy": {
+      "bytes": 41335047176,
+      "human": "38.50 GB"
+    },
+    "optimized": {
+      "bytes": 166068224,
+      "human": "158.38 MB"
+    },
+    "render_cache": {
+      "bytes": 41521932,
+      "human": "39.60 MB"
+    },
+    "stills": {
+      "bytes": 0,
+      "human": "0.00 B"
+    },
+    "backups": {
+      "bytes": 0,
+      "human": "0.00 B"
+    },
+    "other": {
+      "bytes": 4214577439,
+      "human": "3.93 GB"
+    }
+  },
+  "by_category_paths": {
+    "proxy": [
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_0.mov.pfl",
+        "size": 3228516,
+        "mtime": 1759206938.5830836
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_1.mov.pfl",
+        "size": 3228516,
+        "mtime": 1759206938.5830836
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509292244100_0.mov.pfl",
+        "size": 185060,
+        "mtime": 1759207712.2915735
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509292244100_1.mov.pfl",
+        "size": 185060,
+        "mtime": 1759207712.2915735
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\ProxyMedia\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_20251018000106.mov",
+        "size": 41328220024,
+        "mtime": 1760825670.3781843
+      }
+    ],
+    "optimized": [
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000000.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.172808
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000001.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.197656
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000002.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.2120433
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000003.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.2270732
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000004.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.2406557
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000005.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.2572608
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000006.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.2750542
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000007.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.2902281
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000008.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.305074
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000009.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.3141427
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000010.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.3325524
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000011.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.344072
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000012.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.3561525
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000013.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.3703206
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000014.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.3793752
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000015.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.3901603
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000016.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4045267
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000017.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4163303
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000018.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4289868
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000019.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4396918
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000020.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4527822
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000021.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4643757
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000022.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4751961
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000023.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4862587
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000024.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.4988477
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000025.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.5111914
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000026.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.5257745
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000027.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.5346763
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000028.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.5440004
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000029.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.5565896
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000030.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.5663736
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000031.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.585248
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000032.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.5929992
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000033.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.6021175
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000034.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.6141536
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000035.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.6273148
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000036.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.6409042
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000037.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.6518087
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000038.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.6610444
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000039.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.671628
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000040.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.687041
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000041.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.6970723
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000042.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.708802
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000043.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.7225704
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000044.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.7328765
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000045.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.7481112
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000046.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.7541409
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000047.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.7650216
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000048.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.7778
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000049.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.7914639
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000050.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.8015082
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000051.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.8120792
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000052.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.822963
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000053.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.837328
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000054.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.847939
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000055.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.8581464
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000056.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.8671958
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000057.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.8793538
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000058.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.8899815
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000059.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.9044423
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000060.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.9170473
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000061.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.92705
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000062.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.938402
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000063.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.950572
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000064.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.9572492
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000065.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.9699457
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000066.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.9801843
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000067.dvcc",
+        "size": 917504,
+        "mtime": 1760406429.9892888
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000068.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.003037
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000069.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0131469
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000070.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0279353
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000071.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0381558
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000072.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0498452
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000073.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0638113
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000074.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0721104
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000075.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0823677
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000076.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.0965486
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000077.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.1046116
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000078.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.1151514
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000079.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.125152
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000080.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.1381743
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000081.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.1502357
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000082.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.1672554
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000083.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.1743078
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000084.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.186201
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000085.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.195909
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000086.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.209676
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000087.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.2212493
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000088.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.23271
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000089.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.2425659
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000090.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.2523406
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000091.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.2682688
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000092.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.2773044
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000093.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.2868626
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000094.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.3015053
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000095.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.3110397
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000096.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.3219306
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000097.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.3317454
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000098.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.344985
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000099.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.359361
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000100.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.3706813
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000101.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.37772
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000102.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.391897
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000103.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.4018664
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000104.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.4139469
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000105.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.4234989
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000106.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.4355688
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000107.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.4442222
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000108.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.4571786
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000109.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.470808
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000110.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.481385
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000111.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.4913533
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000112.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5029018
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000113.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5119476
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000114.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5251763
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000115.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5354416
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000116.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5483298
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000117.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5607467
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000118.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5723817
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000119.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.5861728
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000120.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.593729
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000121.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6053405
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000122.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6153922
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000123.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6273434
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000124.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6388762
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000125.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6546915
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000126.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6660311
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000127.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6740925
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000128.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.685177
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000129.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.6957865
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000130.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7098596
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000131.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7209377
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000132.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7296627
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000133.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7428133
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000134.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7571988
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000135.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7659273
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000136.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.776225
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000137.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7862303
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000138.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.7957752
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000139.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.809145
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000140.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.825763
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000141.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.8379068
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000142.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.850484
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000143.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.863578
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000144.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.8741531
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000145.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.8828194
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000146.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.8924112
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000147.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9050174
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000148.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9176922
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000149.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9302695
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000150.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9383173
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000151.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9488776
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000152.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9657404
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000153.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9760194
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000154.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9840622
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000155.dvcc",
+        "size": 917504,
+        "mtime": 1760406430.9961915
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000156.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.0117097
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000157.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.022265
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000158.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.0323312
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000159.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.0453918
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000160.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.0584843
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000161.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.0705612
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000162.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.0801055
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000163.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.0902832
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000164.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.1024728
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000165.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.1109037
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000166.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.122806
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000167.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.1323762
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000168.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.141406
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000169.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.1537328
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000170.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.162803
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000171.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.1748743
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000172.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.184043
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000173.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.195261
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000174.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.2052963
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000175.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.2158654
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000176.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.2275107
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000177.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.2360504
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000178.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.2460957
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000179.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.2565818
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\OptimizedMedia\\b6cc9429eff180d906301c184ee0ffb5\\b4b147bc522828731f1a016bfa72c073\\0000000180.dvcc",
+        "size": 917504,
+        "mtime": 1760406431.2657633
+      }
+    ],
+    "render_cache": [
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\39055f40-f982-4d74-96b5-fbc326776705\\Info.txt",
+        "size": 76,
+        "mtime": 1760901405.2761075
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\39055f40-f982-4d74-96b5-fbc326776705\\audio\\874f38a1-b1a1-4185-a7d4-bdb8b0b04867_proxy.wav",
+        "size": 8,
+        "mtime": 1760894990.6507561
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\39055f40-f982-4d74-96b5-fbc326776705\\audio\\a6986604-f461-4e15-aa16-e14c0f978fc4_proxy.wav",
+        "size": 8,
+        "mtime": 1760836410.095655
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\39055f40-f982-4d74-96b5-fbc326776705\\audio\\aa1e1350-3411-4957-a2a2-a8c8f389d9b0_proxy.wav",
+        "size": 8,
+        "mtime": 1760899742.0477064
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\39055f40-f982-4d74-96b5-fbc326776705\\audio\\ae64d165-90ce-46ba-b7d8-af035152049b_proxy.wav",
+        "size": 8,
+        "mtime": 1760901059.479969
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\39055f40-f982-4d74-96b5-fbc326776705\\audio\\c48b039c-39f0-47c1-82d9-33b167c26480_proxy.wav",
+        "size": 8,
+        "mtime": 1760901157.6996205
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Documents\\Sound Recordings\\Recording (28)0_0.m4a.pfl",
+        "size": 142196,
+        "mtime": 1760838170.8428986
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Documents\\Sound Recordings\\Recording (28)0_1.m4a.pfl",
+        "size": 142196,
+        "mtime": 1760838170.8428986
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Documents\\Sound Recordings\\Recording (31)0_0.m4a.pfl",
+        "size": 68808,
+        "mtime": 1760847659.1701372
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Documents\\Sound Recordings\\Recording (31)0_1.m4a.pfl",
+        "size": 68808,
+        "mtime": 1760847659.1701372
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\2 Hearts - Patrick Patrikios0_0.mp3.pfl",
+        "size": 430484,
+        "mtime": 1759209017.0610323
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\2 Hearts - Patrick Patrikios0_1.mp3.pfl",
+        "size": 430484,
+        "mtime": 1759209017.0610323
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sin Rumbo - Inaban0_0.mp3.pfl",
+        "size": 391848,
+        "mtime": 1760829388.728617
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sin Rumbo - Inaban0_1.mp3.pfl",
+        "size": 391848,
+        "mtime": 1760829388.728617
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\crowd-cheer-4066460_0.mp3.pfl",
+        "size": 16704,
+        "mtime": 1760844337.758499
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\crowd-cheer-4066460_1.mp3.pfl",
+        "size": 16704,
+        "mtime": 1760844337.758499
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\crowd-cheer-in-school-auditorium-2366990_0.mp3.pfl",
+        "size": 63764,
+        "mtime": 1760842707.3846633
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\crowd-cheer-in-school-auditorium-2366990_1.mp3.pfl",
+        "size": 63764,
+        "mtime": 1760842707.3846633
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\heartbeat-02-2251030_0.mp3.pfl",
+        "size": 27728,
+        "mtime": 1760843008.3910036
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\heartbeat-02-2251030_1.mp3.pfl",
+        "size": 27728,
+        "mtime": 1760843008.3920038
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\heartbeat-sound-3724480_0.mp3.pfl",
+        "size": 73536,
+        "mtime": 1760843777.1647284
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\heartbeat-sound-3724480_1.mp3.pfl",
+        "size": 73536,
+        "mtime": 1760843777.1647284
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\nani_-meme-sound-effect-su0k4q3yrfw-mp3cut0_0.mp3.pfl",
+        "size": 5236,
+        "mtime": 1760844191.0402534
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\nani_-meme-sound-effect-su0k4q3yrfw-mp3cut0_1.mp3.pfl",
+        "size": 5236,
+        "mtime": 1760844191.0402534
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\no-no-wait-wait0_0.mp3.pfl",
+        "size": 18856,
+        "mtime": 1760843509.9882054
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\no-no-wait-wait0_1.mp3.pfl",
+        "size": 18856,
+        "mtime": 1760843509.9882054
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\thudding-heartbeat-3724870_0.mp3.pfl",
+        "size": 27908,
+        "mtime": 1760842918.736401
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\OneDrive\\Desktop\\MHUR\\Music\\Sound effects\\thudding-heartbeat-3724870_1.mp3.pfl",
+        "size": 27908,
+        "mtime": 1760842918.736401
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 202509152021300_0.mp4.pfl",
+        "size": 3281108,
+        "mtime": 1758207227.4263225
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 202509152021300_1.mp4.pfl",
+        "size": 3281108,
+        "mtime": 1758207227.428972
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 202509181050290_0.mp4.pfl",
+        "size": 222824,
+        "mtime": 1758220795.9640267
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 202509181050290_1.mp4.pfl",
+        "size": 222824,
+        "mtime": 1758220795.9645379
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 20250918115443(1)0_0.mp4.pfl",
+        "size": 201232,
+        "mtime": 1758220791.9528053
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\C_\\Users\\enoch\\Videos\\My Hero Ultra Rumble 20250918115443(1)0_1.mp4.pfl",
+        "size": 201232,
+        "mtime": 1758220791.9528053
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_0.mp4.pfl",
+        "size": 3228516,
+        "mtime": 1759205978.8899229
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202509290221500_1.mp4.pfl",
+        "size": 3228516,
+        "mtime": 1759205978.8919263
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510111550350_0.mp4.pfl",
+        "size": 2291636,
+        "mtime": 1760406433.170438
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510111550350_1.mp4.pfl",
+        "size": 2291636,
+        "mtime": 1760406433.173064
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510180001060_0.mp4.pfl",
+        "size": 2802388,
+        "mtime": 1760825327.8262317
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\D_\\PS5\\CREATE\\Video Clips\\MY HERO ULTRA RUMBLE\\MY HERO ULTRA RUMBLE_202510180001060_1.mp4.pfl",
+        "size": 2802388,
+        "mtime": 1760825327.8299532
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\1\\FLP_4e9c467e-3123-4613-ba27-a264c5d208a1_80004001.pfl",
+        "size": 129672,
+        "mtime": 1759211467.0933177
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\1\\FLP_4e9c467e-3123-4613-ba27-a264c5d208a1_80004002.pfl",
+        "size": 129672,
+        "mtime": 1759211467.0933177
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\5\\FLP_6d406c05-8532-495a-a5bb-a3f2f0d5b225_80004001.pfl",
+        "size": 3218740,
+        "mtime": 1759211679.3694627
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\5\\FLP_6d406c05-8532-495a-a5bb-a3f2f0d5b225_80004002.pfl",
+        "size": 3218740,
+        "mtime": 1759211679.3724716
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\5\\FLP_a4df6345-2ba3-439c-9199-e68c77ea0135_80004001.pfl",
+        "size": 155160,
+        "mtime": 1760836410.5473588
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\5\\FLP_a4df6345-2ba3-439c-9199-e68c77ea0135_80004002.pfl",
+        "size": 155160,
+        "mtime": 1760836410.5473588
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\7\\FLP_37991581-4b93-4b20-9b16-35b6b464db97_80004001.pfl",
+        "size": 154788,
+        "mtime": 1760894991.2344346
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\7\\FLP_37991581-4b93-4b20-9b16-35b6b464db97_80004002.pfl",
+        "size": 154788,
+        "mtime": 1760894991.2344346
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\9\\FLP_fed5915f-0caf-4464-b8d0-6760064c0e29_80004001.pfl",
+        "size": 153164,
+        "mtime": 1760901059.789307
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\9\\FLP_fed5915f-0caf-4464-b8d0-6760064c0e29_80004002.pfl",
+        "size": 153164,
+        "mtime": 1760901059.789307
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\a\\FLP_1bc71fab-92e4-4eb2-a191-a9fc1f1df06a_80004001.pfl",
+        "size": 153164,
+        "mtime": 1760901161.5402558
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\a\\FLP_1bc71fab-92e4-4eb2-a191-a9fc1f1df06a_80004002.pfl",
+        "size": 153164,
+        "mtime": 1760901161.5412612
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\b\\FLP_22dbf030-7420-4c90-848c-4f5392db7c4b_80004001.pfl",
+        "size": 3348284,
+        "mtime": 1759211840.6658034
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\b\\FLP_22dbf030-7420-4c90-848c-4f5392db7c4b_80004002.pfl",
+        "size": 3348284,
+        "mtime": 1759211840.666803
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\b\\FLP_5998818d-d0e9-4bca-a5e8-8f9c6c6da6fb_80004001.pfl",
+        "size": 153164,
+        "mtime": 1760899742.5081975
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\CacheClip\\audio\\fairlightProfiles\\b\\FLP_5998818d-d0e9-4bca-a5e8-8f9c6c6da6fb_80004002.pfl",
+        "size": 153164,
+        "mtime": 1760899742.5081975
+      }
+    ],
+    "stills": [],
+    "backups": [],
+    "other": [
+      {
+        "path": "C:\\Users\\enoch\\Videos\\desktop.ini",
+        "size": 504,
+        "mtime": 1739297804.6185112
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Fine, I'll Do It Myself-Proper Short.mp4",
+        "size": 105309068,
+        "mtime": 1760881682.1297765
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Fine, I'll Do It Myself.mp4",
+        "size": 1987979203,
+        "mtime": 1760859999.94621
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Hunting Down Rapid Deku.mp4",
+        "size": 2121229522,
+        "mtime": 1759222355.6305833
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\.gallery\\39055f40-f982-4d74-96b5-fbc326776705\\Info.txt",
+        "size": 76,
+        "mtime": 1760901405.2776146
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Captures\\desktop.ini",
+        "size": 190,
+        "mtime": 1704508805.0000212
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Resolve Project Backups\\39055f40-f982-4d74-96b5-fbc326776705\\e30de78e-79a0-4fc6-847b-e3fbcfa1ca80\\Timeline.20251018163122",
+        "size": 10458,
+        "mtime": 1760826682.6886997
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Resolve Project Backups\\39055f40-f982-4d74-96b5-fbc326776705\\e30de78e-79a0-4fc6-847b-e3fbcfa1ca80\\Timeline.20251019111303",
+        "size": 14170,
+        "mtime": 1760893983.6521785
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Resolve Project Backups\\39055f40-f982-4d74-96b5-fbc326776705\\e30de78e-79a0-4fc6-847b-e3fbcfa1ca80\\Timeline.20251019124559",
+        "size": 14090,
+        "mtime": 1760899559.64133
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Resolve Project Backups\\39055f40-f982-4d74-96b5-fbc326776705\\e30de78e-79a0-4fc6-847b-e3fbcfa1ca80\\Timeline.20251019125600",
+        "size": 10082,
+        "mtime": 1760900160.7727454
+      },
+      {
+        "path": "C:\\Users\\enoch\\Videos\\Resolve Project Backups\\39055f40-f982-4d74-96b5-fbc326776705\\e30de78e-79a0-4fc6-847b-e3fbcfa1ca80\\Timeline.20251019130825",
+        "size": 10076,
+        "mtime": 1760900905.7483249
+      }
+    ]
+  },
+  "generated_at": "2025-10-20T23:11:17"
+}
