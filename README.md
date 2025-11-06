@@ -72,7 +72,9 @@ Total: 512.3 GB
   7.2 GB   D:/Videos/OptimizedMedia/clip002.mov
 ```
 
-### Project Structure
+---
+
+## Project Structure
 ```csharp
 resolve-project-organizer/
 │
@@ -83,14 +85,14 @@ resolve-project-organizer/
 └── requirements.txt
 ```
 
-### Roadmap
+## Roadmap
 
 - Phase 1 – Audit Mode (scan + report)
 - Phase 2 – Safe Deletion with --min-age-days
 - Phase 3 – Simple GUI (Tkinter or Flask)
 - Phase 4 – Archive Projects to ZIP / external drive
 
-### Key Learnings
+## Key Learnings
 
 - Efficiently scanned thousands of files using os.walk and pathlib without reading file contents.
 - Grouped raw folder data into meaningful Resolve categories.
@@ -98,7 +100,9 @@ resolve-project-organizer/
 - Learned safe program design: read-only first, deletion only with confirmations.
 - Practiced structuring a real-world CLI project for GitHub.
 
-### Author
+---
+
+## Author
 
 Enoch Olayemi
 Computer Science major | Web Development minor | Cybersecurity certificate
@@ -106,6 +110,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/enoch-olayemi/)
  or check out more projects on GitHub
 .
 
-### License
+
+## License
 
 MIT License © 2025 Enoch Olayemi
