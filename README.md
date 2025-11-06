@@ -29,5 +29,83 @@ This tool solves that problem by:
 
 ### 1. Install Python 3.10 +
 Make sure Python is installed and available in your terminal:
-```bash
+```
+bash
 python --version
+```
+
+### 2. Clone this repository
+```
+git clone https://github.com/enockola/Resolve-Video-Tracker.git
+cd Resolve-Video-Tracker
+```
+
+### 3. Run the auditor
+
+Example (Windows paths shown, forward slashes also work):
+
+```
+python resolve_space_audit.py "D:/Videos" --report out/report --top 30
+```
+
+### 4. View results
+
+Console summary (category sizes, top files, top extensions)
+JSON report: `out/report.json`
+CSV report: `out/report.csv` → open in Excel or Google Sheets
+
+### Example Output
+```
+Scanned: D:/Videos
+Total: 512.3 GB
+
+== Size by category ==
+       proxy: 180.5 GB
+    optimized: 75.2 GB
+ render_cache: 90.8 GB
+       stills: 12.6 GB
+      backups: 4.3 GB
+        other: 149.0 GB
+
+== Top largest files ==
+  8.6 GB   D:/Videos/ProxyMedia/clip001.mov
+  7.2 GB   D:/Videos/OptimizedMedia/clip002.mov
+```
+
+### Project Structure
+```csharp
+resolve-project-organizer/
+│
+├── resolve_space_audit.py     # main script
+├── out/                       # JSON + CSV reports
+├── tests/                     # future test files
+├── README.md
+└── requirements.txt
+```
+
+### Roadmap
+
+- Phase 1 – Audit Mode (scan + report)
+- Phase 2 – Safe Deletion with --min-age-days
+- Phase 3 – Simple GUI (Tkinter or Flask)
+- Phase 4 – Archive Projects to ZIP / external drive
+
+### Key Learnings
+
+- Efficiently scanned thousands of files using os.walk and pathlib without reading file contents.
+- Grouped raw folder data into meaningful Resolve categories.
+- Designed a linear-time algorithm (O(N)) that works even on large drives.
+- Learned safe program design: read-only first, deletion only with confirmations.
+- Practiced structuring a real-world CLI project for GitHub.
+
+### Author
+
+Enoch Olayemi
+Computer Science major | Web Development minor | Cybersecurity certificate
+Connect with me on [LinkedIn](https://www.linkedin.com/in/enoch-olayemi/)
+ or check out more projects on GitHub
+.
+
+### License
+
+MIT License © 2025 Enoch Olayemi
